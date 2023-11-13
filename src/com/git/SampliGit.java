@@ -2,7 +2,7 @@ package com.git;
 
 public class SampliGit {
 	public void empName() {
-		System.out.println("Mohan");
+		System.out.println("Jithu is sweet");
 
 	}
 	public void empId() {
